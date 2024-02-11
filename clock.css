@@ -1,0 +1,44 @@
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    background: rgb(131,58,180);
+background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(241,92,92,1) 50%, rgba(252,176,69,1) 100%);
+}
+
+.jumbotron{
+    background: transparent;
+    position: absolute;
+    top: 50%;
+    overflow: hidden;
+}
+
+.display-4{
+    color: aliceblue;
+    font-family: serif;
+    font-style: Garamond;
+}
+
+.lead{
+    color: aliceblue;
+    font-family: serif;
+    font-style: Garamond;
+    font-size: 30px;
+}
+
+.para{
+    color: aliceblue;
+    font-family: serif;
+    font-style: Garamond;
+    font-size: 30px;
+}
+
+.rangoli{
+    position: absolute;
+    right: -300px;
+    height: 1200px;
+    width: 1200px;
+}
